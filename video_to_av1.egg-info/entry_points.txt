@@ -1,0 +1,2 @@
+[console_scripts]
+video-to-av1 = video_to_av1.cli:main
